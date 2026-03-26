@@ -6,9 +6,9 @@ mock==2.0.0
 pytest
 requests-futures==1.0.0
 
-setuptools~=63.2.0
+setuptools~=82.0.1
 tomli~=2.0.2
 packaging~=24.1
 six~=1.16.0
-requests~=2.32.3
+requests~=2.33.0
 oauth2client~=4.1.3

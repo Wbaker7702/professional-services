@@ -5,4 +5,4 @@ google-cloud-appengine-logging==1.1.1
 google-cloud-audit-log==0.2.2
 google-cloud-logging==3.1.1
 google-cloud-functions==1.6.0
-requests~=2.27.1
+requests~=2.33.0

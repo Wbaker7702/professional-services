@@ -39,7 +39,7 @@ setup(
     packages=['asset_inventory'],
     setup_requires=['pytest-runner', 'setuptools_scm'],
     extras_require = {
-        'testing': ['mock==4.0.3', 'pytest==7.1.3', 'apache-beam[gcp]==2.60.0'],
+        'testing': ['mock==4.0.3', 'pytest==9.0.3', 'apache-beam[gcp]==2.60.0'],
     },
     include_package_data=True,
     # https://pypi.org/project/google-cloud-asset/#history
